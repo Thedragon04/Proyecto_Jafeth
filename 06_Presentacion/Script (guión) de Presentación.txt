@@ -1,0 +1,24 @@
+Problema de diseño y cliente:
+Mi cliente fue mi madre entonces surgió un pequeño problema porque no estaba entendiendo que tenia que hacer y decir pero la ayude a moldear la idea yo la guie un poco nada mas, surgieron problemas en el sentido que algunas cosas que pedía no las podía implementar por que no estamos haciendo de forma completamente libre entonces tuve que limitar un poco sus ideas.
+
+Público meta y necesidades identificadas:
+El publico al ser tan amplio se necesita hacer una pagina que tuviera una forma en que cualquier ser humano lo entienda además de ser accesible a todo tipo de publico.
+
+Racional creativo y concepto visual:
+La pagina esta orientada a los queque personalizados y con base a esto se eligieron los colores y la tipografia también las imágenes que iban a salir toda la pagina esta relaciona a los queques el banner fue hecho pensando en eso ya que es para dar fuerza a este mismo objetivo.
+
+Explicación de estructura y componentes principales:
+La estructura se pensó y se realizo en cinco apartados o paginas las cuales ninguna funciona igual que la otra exceptuando el inicio y el menú entero, los componentes se hicieron pensando en lo mas importante ósea los botones la navbar el pie de pagina. 
+
+Prototipo:
+La pagina de inicio con tiene queque destacados arriba se encuentra los otros apartados, el menú entero contiene ejemplos de queques hechos por la repostera, en la sección de carrito contiene un mini formulario contiene la información principal, la sección de personalizado contiene los diferentes tipos de sabores y por ultimo la sección de nosotros que solo contiene información de la visión e historia.
+
+Guía de diseño y especificaciones:
+Los colores y la tipografía fueron pensadas para que parecieran tipo comestibles que fueran tipo pastel al igual que los colores el logo mas que todo tuvo un rediseño ya que el primero no le gusto al cliente y se tuvo que hacer otro por aparte que este es que quedo y le gusto al cliente.
+
+Validación de accesibilidad:
+Se valido la accesibilidad del la pagina la cual cumple con los parámetros impuestos tiene buen contraste, los elementos interactivos responden de manera adecuada, la tipografía cumple con su cometido es legible y coherente con el diseño, el formulario cumple, el responsivo sirve y no se feo ni fuera de lugar.
+
+Conclusión y resultados esperados:
+Los resultados esperados quedaron un poco abajo ya que aquí me fue bastante difícil hacer el menú personalizado y no quedo como yo quería ya que al cliente le encanto pero yo quería perfeccionarlo mas pero no pude pero es un resultado adecuado, fue trabajo complicado ya que no pude hacer todo lo que quería y me tuve que adaptar a figma no es una mala herramienta pero me limito un poco, por ultimo quisiera agradecer a tres personas Kevin, Dilan y Greivin
+ 
