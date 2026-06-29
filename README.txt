@@ -56,9 +56,7 @@ Incluye toda la documentación del sistema de diseño.
 
 * Design System.
 * Paleta de colores.
-* Tipografías.
-* Iconografía.
-* Componentes documentados.
+* Tipografías y Iconografía.
 
 05_Accesibilidad
 
